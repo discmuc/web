@@ -1,0 +1,12 @@
+{
+    "esversion": 6,
+    "undef": true,
+    "unused": true,
+    "strict": "global",
+    "browser": true,
+    "jquery": true,
+    "devel": true,
+    "globals": {
+        "d3": false
+    }
+}
