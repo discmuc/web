@@ -1,2 +1,2 @@
 # web
-web technologie examples
+web technologies examples
