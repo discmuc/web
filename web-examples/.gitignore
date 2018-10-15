@@ -1,4 +1,5 @@
 /.*
+/src/css/*.css
 !.gitignore
 !.eslintrc
 !.jshintrc
