@@ -2,22 +2,30 @@
 
 ## descriptions
 
-  * __example001__
+### JavaScript
+
+  * __js_001__
 
     executing code when the page is rendered (using a handler, listeners, jquery and script position)
 
-  * __example002__
+  * __js_002__
 
     language core features
 
-  * __example003__
+  * __js_003__
 
     working with reference types
 
-  * __example004__
+  * __js_004__
 
     working with arrays
 
-  * __example005__
+  * __js_005__
 
     working with DOM and events
+
+### d3
+
+  * __d3_001__
+
+    simple d3 example

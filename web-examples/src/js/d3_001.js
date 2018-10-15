@@ -12,8 +12,8 @@ let circle = canvas.append('circle')
     .attr('cy', 250)
     .attr('r', 125)
     .attr('fill', 'orange')
-    .attr('stroke', 'red')
-    .attr('stroke-width', 3);
+    .attr('stroke', 'darkgrey')
+    .attr('stroke-width', 1);
 
 circle
     .transition()
